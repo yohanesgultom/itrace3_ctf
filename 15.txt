@@ -1,0 +1,5 @@
+Run the .class and get magic number error 65535 (0000FFFF).
+
+According to https://en.wikipedia.org/wiki/Magic_number_(programming), Java magic number should always be hex CAFEBABE (in Indonesian, it means Daddy's Cafe :p) but this .class has different values 0000FFFF (65535). So just change the value using hex editor.
+
+Try to run it again. If it shows file not found error (because the file is exist in the remote server) then we are good to go. Upload the file and get the flag.
