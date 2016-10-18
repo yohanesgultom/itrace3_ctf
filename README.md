@@ -1,6 +1,6 @@
 # IT Race lvl 3 solutions
 
-Codes that I wrote to solved in my first Capture the Flag (CTF) competition: IT Race lvl 3 "Dari Timur Indonesia Menuju Luar Angkasa" (local Indonesian CTF). The solutions are those file named using numbers/digits representing the task number.
+Codes that I wrote to solved in my first Capture the Flag (CTF) competition: IT Race lvl 3 "Dari Timur Indonesia Menuju Luar Angkasa" (a local Indonesian CTF) http://itrace.systems/. The solutions are those file named using numbers/digits representing the task number.
 
 > I obviously lost though. But hey, ranked 15th out of 300 was not so bad for noob, right? :p
 
